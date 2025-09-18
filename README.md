@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<p align="center" ><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Muditha Lakmali</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
@@ -62,10 +62,5 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lakmali0256&theme=github-compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NalakaDineshSamarasingha/nalakadineshsamarasingha/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NalakaDineshSamarasingha/nalakadineshsamarasingha/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NalakaDineshSamarasingha/nalakadineshsamarasingha/output/github-snake.svg" />
-</picture>
 
----
+
